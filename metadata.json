@@ -1,0 +1,6 @@
+{
+  "name": "DevMap - Interactive Software Engineering Roadmap",
+  "description": "An interactive, animated skill tree and curriculum map for computer science, web development, mobile native apps, and systems architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
